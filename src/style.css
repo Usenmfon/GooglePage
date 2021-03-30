@@ -1,0 +1,25 @@
+nav {
+    float: right;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav a:link {
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.navpicture img {
+    border-radius: 50%;
+}
+
+main img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
