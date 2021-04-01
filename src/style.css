@@ -17,6 +17,14 @@ nav a:hover {
     border-radius: 50%;
 }
 
+main {
+    text-align: center;
+}
+
+main a {
+    padding: 0px 10px 0px 10px;
+}
+
 main img {
     display: block;
     margin-left: auto;
