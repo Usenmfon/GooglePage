@@ -17,6 +17,11 @@ nav a:hover {
     border-radius: 50%;
 }
 
+.img-figure img {
+    /* display: block; */
+    margin: 50px auto 0;
+}
+
 main {
     text-align: center;
 }
@@ -27,8 +32,4 @@ main a {
 
 footer a {
     padding: 0px 10px 0px 10px;
-}
-
-.img-figure img {
-    margin: 50px auto;
 }
