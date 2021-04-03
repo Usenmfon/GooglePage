@@ -29,9 +29,6 @@ footer a {
     padding: 0px 10px 0px 10px;
 }
 
-main img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+.img-figure img {
+    margin: 50px auto;
 }
