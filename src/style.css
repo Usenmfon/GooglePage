@@ -45,15 +45,27 @@ input {
     padding: 1em;
     border: 1px solid grey;
     border-radius: 30px;
+    outline: none;
 }
 
 .buttons {
     margin-top: 1em;
 }
 
-.buttons button {
+.buttons>button {
     padding: 1em;
     border: none;
+    justify-content: space-between;
+}
+
+.langs,
+p,
+a {
+    display: inline;
+}
+
+.langs>a {
+    color: blue;
 }
 
 footer {
