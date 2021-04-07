@@ -11,6 +11,12 @@ nav {
     margin-top: 1em;
 }
 
+.profile_picture img {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+
 a {
     color: black;
     text-decoration: none;
